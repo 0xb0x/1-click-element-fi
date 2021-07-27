@@ -1,2 +1,2 @@
 # 1-click-element-fi
-smart contracts that enable one click automation on element finance
+smart contract that enables one click automation on element finance

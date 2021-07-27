@@ -1,0 +1,23 @@
+{
+  "name": "1-click-element-fi",
+  "version": "1.0.0",
+  "description": "smart contracts that enable one click automation on element finance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xb0x/1-click-element-fi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xb0x/1-click-element-fi/issues"
+  },
+  "homepage": "https://github.com/0xb0x/1-click-element-fi#readme",
+  "devDependencies": {
+    "hardhat": "^2.5.0"
+  }
+}
